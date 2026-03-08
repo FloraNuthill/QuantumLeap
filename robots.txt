@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /QuantumLeap
+Disallow: /
+Disallow: index.html
